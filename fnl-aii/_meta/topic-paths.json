@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "paths": [
+    "Research/AI Governance & Ethics",
+    "Research/AI Systems & Deployment",
+    "Research/Computational Social Science",
+    "Research/Machine Learning Methods"
+  ],
+  "extensibleRoots": [
+    "Research/AI Governance & Ethics",
+    "Research/AI Systems & Deployment",
+    "Research/Computational Social Science",
+    "Research/Machine Learning Methods"
+  ],
+  "fallback": "review"
+}

@@ -1,0 +1,5 @@
+{
+  "packages": [
+    "git:github.com/Adjuvant/agent-knowledge-base-toolkit@v0.1.3"
+  ]
+}

@@ -1,0 +1,45 @@
+(tutorial-online-interviews.md) describes step by step how AI-led interviews can be hosted online and be integrated into other survey components.
+
+## 2. AI-assisted transcript analysis
+
+Please refer to the separate folder `analysis` for code and [discussion](analysis/README.md) on how interview transcripts can be analysed using LLMs.
+
+## 3. Data and licence
+
+### Data
+
+The platform in its current form works with language model APIs from OpenAI, Anthropic, Google, and Microsoft Azure. Similarly to when using common tools like ChatGPT, Claude, Gemini, or others, the input data is thereby sent to the API providers to compute answers. These providers process the data under their terms of use, privacy policies, and data-retention settings, which need to be reviewed before studies are undertaken. Any study that uses this code needs to ensure to comply with all applicable data-protection laws and research ethics requirements (for example, institutional review board / ethics committee approvals), and to flag to respondents as part of consent forms that their interview data will be sent to third-party AI providers for computing interview responses and for analysing transcripts. It is the responsibility of researchers to ensure that all necessary approvals and consents are in place before conducting any studies using this platform.
+
+### Licence
+
+#### Code
+
+All __source code__ in this repository is licensed under the __PolyForm Noncommercial License 1.0.0__.
+
+You may use, modify, and distribute the code exclusively for non-commercial purposes. See [LICENCE-CODE](LICENCE-CODE) for the full licence text, or visit: https://polyformproject.org/licenses/noncommercial/1.0.0
+
+#### Documentation
+
+All __non-code content__ in this repository—such as README files, Markdown documentation, written explanations, and text in Jupyter notebooks—is licensed under the __Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)__.
+
+You may share and adapt this content for non-commercial purposes, provided appropriate attribution is given. See [LICENCE-DOCS](LICENCE-DOCS) for the full licence text, or visit: https://creativecommons.org/licenses/by-nc/4.0/
+
+#### Summary
+
+| Component     | Licence                      |
+|---------------|------------------------------|
+| Source code   | PolyForm Noncommercial 1.0.0 |
+| Documentation | CC BY-NC 4.0                 |
+
+## 4. Paper
+
+The paper discusses the interview and analysis methods from this repository in detail. It is available at [https://ssrn.com/abstract=4974382](https://ssrn.com/abstract=4974382) and can be cited with the following BibTex entry:
+
+```
+@article{geieckejaravel2026,
+  title={Conversations at Scale: Robust AI-led Interviews},
+  author={Geiecke, Friedrich and Jaravel, Xavier},
+  url={https://ssrn.com/abstract=4974382},
+  year={2026}
+}
+```

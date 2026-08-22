@@ -1,0 +1,37 @@
+filters:
+  and:
+    - type == "research-brief"
+
+views:
+  - type: table
+    name: All Research
+    order:
+      - file.link
+      - date
+      - status
+      - sources_consulted
+      - sources_accepted
+      - verification
+      - topic_path
+
+  - type: table
+    name: By Topic
+    groupBy:
+      property: topic_path
+      direction: ASC
+    order:
+      - file.link
+      - date
+      - status
+      - sources_consulted
+
+  - type: table
+    name: Verified
+    filters:
+      and:
+        - status == "verified"
+    order:
+      - file.link
+      - date
+      - sources_accepted
+      - verification

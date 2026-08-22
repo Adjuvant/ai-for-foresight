@@ -1,0 +1,12 @@
+{
+  "identity": {
+    "name": "fnl-aii"
+  },
+  "vault": {
+    "directory": "fnl-aii"
+  },
+  "services": {
+    "bbt": "http://localhost:23119/better-bibtex/json-rpc",
+    "pdfExtract": "http://127.0.0.1:8765"
+  }
+}

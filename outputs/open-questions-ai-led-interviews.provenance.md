@@ -1,0 +1,23 @@
+# Provenance: AI-Led Interviews — Open Questions (Deep-Research Update)
+
+- **Date:** 2026-08-22
+- **Rounds:** 1 evidence-gathering round (4 parallel `researcher` threads) + 1 `verifier` citation pass + 1 `reviewer` verification pass + lead fix pass
+- **Sources consulted:** ~150 (T1: 37 accepted; T2: 45; T3: 38; T4: 30 accepted plus provider docs; counts per research files)
+- **Sources accepted:** 116 numbered entries in the final brief's Sources section (all cited inline; programmer-verified: no gaps, no out-of-range inline citations, no uncited sources)
+- **Sources rejected:** query noise (recruitment/job-interview AI articles; Frontiers meta-analysis and IRR-statistics papers with no link to the seed paper), content aggregators and undated AI-synthesized listicles, Semantic Scholar (rate-limited, unusable), ResearchGate pages (used only as existence pointers). PDFs were NOT fetched (workflow policy) — PDF-only items are tagged `blocked — PDF only` in the brief, not silently dropped. Cloudflare-gated hosts (SSRN, academic.oup.com, openalex.org web) recorded as blocked.
+- **Verification:** PASS WITH NOTES
+  - Reviewer found **0 FATAL**; 2 MAJOR (dropped confidence tags: POQ 2026 sample metrics; Wits/JOS/Druk inline caveats) + 8 MINOR (citation-precision). All MAJOR and MINOR issues fixed in `outputs/.drafts/open-questions-ai-led-interviews-revised.md` (18 targeted patches, each asserted by the script) and the final deliverable.
+  - Post-fix on-disk checks passed: `rg`/`grep` confirmed old wording absent (5 patterns) and new wording present (10 patterns); Python citation-integrity audit passed (116 sources, no gaps, every source cited, no out-of-range citations).
+  - Residual notes: (a) in-press REStud full text not deposited — headline numbers remain author-version + secondary-blog level; (b) AAPOR report and several institutional documents remain PDF-only/provider-indexed (explicitly tagged); (c) `alpha_search` (alphaXiv) unavailable to subagents ("not logged in") — equivalent coverage via Crossref/OpenAlex/arXiv/PubMed/OSF APIs; (d) subagent runtime flagged all 4 researcher runs FAILED on a child tool-allowlist issue (hf_* tools); complete reports were recovered from the artifact directory and used — treated as PASS WITH NOTES.
+- **Plan:** outputs/.plans/open-questions-ai-led-interviews.md (includes task ledger, verification log, decision log)
+- **Research files:**
+  - outputs/.drafts/open-questions-ai-led-interviews-research-T1.md (validation thread)
+  - outputs/.drafts/open-questions-ai-led-interviews-research-T2.md (interviewer-induced bias + synthetic-respondent boundary)
+  - outputs/.drafts/open-questions-ai-led-interviews-research-T3.md (analysis-pipeline consistency)
+  - outputs/.drafts/open-questions-ai-led-interviews-research-T4.md (governance, residency, consent)
+  - outputs/.drafts/open-questions-ai-led-interviews-draft.md (lead-authored draft)
+  - outputs/.drafts/open-questions-ai-led-interviews-cited.md (verifier-cited)
+  - outputs/.drafts/open-questions-ai-led-interviews-verification.md (reviewer verification report)
+  - outputs/.drafts/open-questions-ai-led-interviews-revised.md (final candidate)
+- **Final artifact:** outputs/open-questions-ai-led-interviews.md (byte-identical to the revised final candidate; `diff -q` passed)
+- **Blocked / unverified items retained in the brief:** REStud in-press text (numbers 86%/84%, Behavioural Lab tables unverifiable at published-version level); SSRN last-revised status (21 Nov 2024 vs claimed 7 Feb 2026); origin of the 466 figure; Google PAYGO in-region inference guarantee; AAPOR exact wording (needs PDF pass); alphaXiv search; PDF full-text parsing (by workflow policy).
