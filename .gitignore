@@ -2,7 +2,7 @@
 .DS_Store
 
 # Local app stores / caches (each contains its own nested git repo)
-.feynman/
+.feynman/npm
 .pi/git/
 .pi/npm/
 .pi-subagents/
