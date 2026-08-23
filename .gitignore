@@ -3,6 +3,7 @@
 
 # Local app stores / caches (each contains its own nested git repo)
 .feynman/npm
+.feynman/cache
 .pi/git/
 .pi/npm/
 .pi-subagents/
