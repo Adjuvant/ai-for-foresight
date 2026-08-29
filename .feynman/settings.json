@@ -1,6 +1,6 @@
 {
   "packages": [
-    "npm:@adjuvant/agent-knowledge-base-toolkit@0.2.0-rc.3"
+    "npm:@adjuvant/agent-knowledge-base-toolkit@0.2.0-rc.5"
   ],
   "subagents": {
     "agentOverrides": {
@@ -11,7 +11,7 @@
         "model": "opencode-go/deepseek-v4-flash:high"
       },
       "reviewer": {
-        "model": "opencode-go/deepseek-v4-flash:high"
+        "model": "opencode-go/deepseek-v4-pro:high"
       },
       "writer": {
         "model": "openai-codex/gpt-5.4-mini"
