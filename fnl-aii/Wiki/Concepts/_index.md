@@ -1,13 +1,20 @@
 ---
 type: wiki-index
 category: concept
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # Concepts Index
 
+- [[Wiki/Concepts/agentic-osint]] — LLM agent pipelines repurposed for open-source intelligence (OSINT) gathering; the pattern is commodity agentic stacks (model + MCP/REPL tool layers) specialised with OSINT skill packs, plus commercial incumbents folding agentic features into existing collection infrastructure.
 - [[Wiki/Concepts/ai-consent-research]] — Consent requirements when AI processes research participants' data; AAPOR May 2026 report confirmed, institutional AI-consent templates now ship, no mainstream journal yet requires participant-facing clauses.
 - [[Wiki/Concepts/ai-data-residency]] — Jurisdictional pinning of LLM API processing and storage; Google's pinnable path (Gemini Enterprise Agent Platform EU endpoints) now verified, whisper-1 voice leak persists.
 - [[Wiki/Concepts/ai-led-interviews]] — LLM-conducted interviews with human respondents, positioned as a scaleable complement to human expert interviewers; 2026-08-22 follow-up verified REStud in-press status, found no replication, added first peer-reviewed measurement of interviewer-induced answer-shaping (POQ 2026).
+- [[Wiki/Concepts/deep-research-agents]] — Deep-Research-class agent systems — OpenAI Deep Research, Google Gemini Deep Research, Perplexity Deep Research and open clones (STORM, gpt-researcher, open_deep_research) — have become the default collection-and-synthesis layer that foresight and policy pilots wrap with source feeds and taxonomies.
+- [[Wiki/Concepts/foresight-evaluation]] — The field's core open problem: how to measure whether scanning is 'early and right'. Candidate designs — fully prospective tournaments, dynamic future-only benchmarks, chronological backtests with leakage audits, calibration scoring, and process metrics — each have distinct failure modes; LLM training-data contamination is the first-order technical threat.
+- [[Wiki/Concepts/future-sign]] — Hiltunen's semiotic reframe of weak signals (Futures, 2008): a 'future sign' has three dimensions — the signal carrier, the underlying issue, and the interpretation — making weakness a joint property across dimensions rather than a property of the information alone; Hiltunen proposed renaming weak signals 'weak future signs'.
+- [[Wiki/Concepts/horizon-scanning]] — Systematic scanning of emerging trends and weak signals to enable early response; as of mid-2026 institutional practice (EMA daily-scan/annual-prioritise, Bank of England audit, EU, UK, UN) outpaces verified LLM-horizon-scanning tooling, and no commercial performance claim has independent audit.
 - [[Wiki/Concepts/llm-assisted-qualitative-analysis]] — LLM coding of transcripts; 86% vs 84% of human-human unresolved, no universal agreement cutoff, agreement-with-humans yardstick under published critique.
+- [[Wiki/Concepts/policy-foresight]] — Institutionalised foresight programmes that feed policy and regulation — EMA medicines horizon scanning, Bank of England audit, EU Strategic Foresight, GOV.UK AI Insights, UN Global Pulse — where procurement of commercial intelligence platforms is the de facto channel for agentic-adjacent capability and in-house agentic stacks remain undocumented.
 - [[Wiki/Concepts/synthetic-respondents]] — LLM simulation of survey participants; validity boundary item- and task-dependent, Westwood-vs-Rothschild contamination dispute live, AI-interviewer shift of the boundary untested.
+- [[Wiki/Concepts/weak-signals]] — Theory lineage of weak-signal detection from Ansoff (1975, five-state knowledge ladder) through Hiltunen's 'future sign' to the 2021 unified construct (weakness = distance to the perceiver's frame of reference, four graded levels); LLM-era adaptation is early and pilot-scale, with no verified deployed 'LLM weak-signal detector' as of 2026.

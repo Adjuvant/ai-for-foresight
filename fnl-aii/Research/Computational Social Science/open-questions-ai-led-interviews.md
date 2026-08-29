@@ -22,7 +22,9 @@ tags:
   - ingested
 plan: ../outputs/.plans/open-questions-ai-led-interviews.md
 archived_at: 2026-08-22T01:48:47.570Z
-updated_at: 2026-08-22T01:48:47.570Z
+related:
+  - [[Research/AI Systems & Deployment/foresight-automation-weak-signals]]
+updated_at: 2026-08-23T01:15:40.938Z
 ---
 
 # AI-Led Interviews: Open Questions — Deep-Research Update (revised, cited)

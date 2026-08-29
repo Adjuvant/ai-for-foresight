@@ -1,0 +1,132 @@
+---
+type: reference-list
+slug: foresight-automation-weak-signals
+brief: "[[Research/AI Systems & Deployment/foresight-automation-weak-signals]]"
+generated: 2026-08-23
+---
+
+- Correia et al. 2026, "Horizon scanning at EMA," *Front. Med.* 13:1800213 (T1#15) — live — https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1800213/full (DOI 10.3389/fmed.2026.1800213) ^foresight-automation-weak-signals-1
+- Bank of England IEO, "Evaluation of horizon scanning" (Jun 2025) (T1#28) — live — https://www.bankofengland.co.uk/independent-evaluation-office/ieo-report-june-2025 ^foresight-automation-weak-signals-2
+- UN DESA Policy Brief No. 191, "Institutionalizing foresight" (T1#32) — live — https://desapublications.un.org/policy-briefs/un-desa-policy-brief-no-191-institutionalizing-foresight-integrating-futures-thinking ^foresight-automation-weak-signals-3
+- Nextatlas homepage (T2#1) — live — https://www.nextatlas.com/ ^foresight-automation-weak-signals-4
+- Nextatlas FAQ (T2#2) — live — https://www.nextatlas.com/about/faqs ^foresight-automation-weak-signals-5
+- Nextatlas Foresight (T2#3) — live — https://www.nextatlas.com/foresight ^foresight-automation-weak-signals-6
+- Shaping Tomorrow homepage (T2#31) — live — https://www.shapingtomorrow.com/ ^foresight-automation-weak-signals-7
+- Shaping Tomorrow — Overview (T2#32) — live — https://www.shapingtomorrow.com/overview ^foresight-automation-weak-signals-8
+- Shaping Tomorrow — The Decision-Grade Intelligence Method (T2#33) — live — https://www.shapingtomorrow.com/methodology ^foresight-automation-weak-signals-9
+- Shaping Tomorrow — What is Decision-Grade Intelligence? (T2#34) — live — https://www.shapingtomorrow.com/what-is-decision-grade-intelligence ^foresight-automation-weak-signals-10
+- Ansoff (1975), full-text PDF (public mirror) (T3#2) — resolves-partial (PDF; full text read in research run, `[VERIFIED]`) — https://www.creaciondeestrategia.com/wp-content/uploads/2022/02/Ansoff_1975.pdf ^foresight-automation-weak-signals-11
+- Hiltunen (2010), dissertation A-365 containing reprint of Hiltunen (2008) (T3#7) — resolves-partial (PDF) — https://aaltodoc.aalto.fi/server/api/core/bitstreams/f1f2a55a-093a-4fad-ad6f-4d14fd5a2e6b/content ^foresight-automation-weak-signals-12
+- van Veen & Ortt (2021) full text, TU Delft repository (T3#11) — resolves-partial (PDF; `[VERIFIED]` research run) — https://repository.tudelft.nl/file/File_0f4b0d0f-fb0d-4256-b3dd-b790f990bf18 ^foresight-automation-weak-signals-13
+- Schoenegger & Park (2023), arXiv:2310.13014 (T4#7) — live — http://arxiv.org/abs/2310.13014 ^foresight-automation-weak-signals-14
+- Csaszar, Peterson & Wilde (2026), "The Strategic Foresight of LLMs," SSRN (T4#4) — bot-blocked (SSRN Cloudflare; abstract captured via Crossref/OpenAlex) — https://doi.org/10.2139/ssrn.6166986 ^foresight-automation-weak-signals-15
+- Karger et al. (2024), ForecastBench, arXiv:2409.19839 (T4#13) — live — http://arxiv.org/abs/2409.19839 ^foresight-automation-weak-signals-16
+- Murphy (2026), BLF, arXiv:2604.18576 (T4#16) — live — http://arxiv.org/abs/2604.18576 ^foresight-automation-weak-signals-17
+- Schmidt et al. (2025), SCANAR/AIDOC, arXiv:2504.01627 (T4#28) — live — http://arxiv.org/abs/2504.01627 ^foresight-automation-weak-signals-18
+- OECD & WEF (2025), "AI in Strategic Foresight" (T4#33) — resolves-partial (PDF) — https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/ai-in-strategic-foresight_82c3a4b1/aa573076-en.pdf ^foresight-automation-weak-signals-19
+- Lee, Merrill & Karger (2026), ForecastBench-Sim, arXiv:2606.18686 (T4#14) — live — http://arxiv.org/abs/2606.18686 ^foresight-automation-weak-signals-20
+- Merrill, Lee & Karger (2026), "Is Capability a Liability?", arXiv:2605.22672 (T4#15) — live — http://arxiv.org/abs/2605.22672 ^foresight-automation-weak-signals-21
+- Halawi et al. (2024), "Approaching Human-Level Forecasting," arXiv:2402.18563 (T4#6) — live — http://arxiv.org/abs/2402.18563 ^foresight-automation-weak-signals-22
+- OECD, Strategic Foresight programme page (T1#30) — bot-blocked (403 at fetch time) — https://www.oecd.org/en/about/programmes/strategic-foresight.html ^foresight-automation-weak-signals-23
+- Anthony, "Four Keys to Effective Horizon Scanning," MIT SMR (6 Mar 2025) (T1#1) — live — https://sloanreview.mit.edu/article/four-keys-to-effective-horizon-scanning/ ^foresight-automation-weak-signals-24
+- Nextatlas Generate (product + pricing) (T2#6) — live — https://generate.nextatlas.com/ (pricing page: https://www.nextatlas.com/solutions/generate/pro/monthly) ^foresight-automation-weak-signals-25
+- Samuel, Zhou & Zou (2024), contamination-detection limitations, arXiv:2409.09927 (T4#24) — live — http://arxiv.org/abs/2409.09927 ^foresight-automation-weak-signals-26
+- Xu et al. (2024), BDC survey, arXiv:2406.04244 (T4#18) — live — http://arxiv.org/abs/2406.04244 ^foresight-automation-weak-signals-27
+- Cheng et al. (2025), contamination survey, arXiv:2502.14425 (T4#19) — live — http://arxiv.org/abs/2502.14425 ^foresight-automation-weak-signals-28
+- Li et al. (2024), open contamination report, arXiv:2310.17589 (T4#20) — live — http://arxiv.org/abs/2310.17589 ^foresight-automation-weak-signals-29
+- Dong et al. (2024), CDD/TED, arXiv:2402.15938 (T4#21) — live — http://arxiv.org/abs/2402.15938 ^foresight-automation-weak-signals-30
+- Palavalli et al. (2024), contamination taxonomy, arXiv:2407.08716 (T4#22) — live — http://arxiv.org/abs/2407.08716 ^foresight-automation-weak-signals-31
+- Golchin & Surdeanu (2023), Data Contamination Quiz, arXiv:2311.06233 (T4#23) — live — http://arxiv.org/abs/2311.06233 ^foresight-automation-weak-signals-32
+- Tetlock & Gardner, *Superforecasting*, Crown (2015) (T4#36) — book citation, no fetch per research brief; ISBN 978-0-8041-3669-3 ^foresight-automation-weak-signals-33
+- Schoenegger et al. (2024), "Wisdom of the Silicon Crowd," arXiv:2402.19379 (T4#8) — live — http://arxiv.org/abs/2402.19379 ^foresight-automation-weak-signals-34
+- Schoenegger et al. (2024), "AI-Augmented Predictions," arXiv:2402.07862 (T4#9) — live — http://arxiv.org/abs/2402.07862 (journal DOI 10.1145/3707649) ^foresight-automation-weak-signals-35
+- Turtel et al. (2025), outcome-driven DPO, arXiv:2502.05253 (T4#10) — live — http://arxiv.org/abs/2502.05253 ^foresight-automation-weak-signals-36
+- Turtel et al. (2025), RLVR, arXiv:2505.17989 (T4#11) — live — http://arxiv.org/abs/2505.17989 ^foresight-automation-weak-signals-37
+- Schoenegger et al. (2025), prompt engineering, arXiv:2506.01578 (T4#12) — live — http://arxiv.org/abs/2506.01578 ^foresight-automation-weak-signals-38
+- van Veen & Ortt (2021), ScienceDirect full text (CC-BY) (T3#10) — bot-blocked (SD 403; full text read via TU Delft copy [13] in research run) — https://www.sciencedirect.com/science/article/pii/S0016328721001464 ^foresight-automation-weak-signals-39
+- AiThority, interview with Luca Morena, CEO of Nextatlas (2024) (T2#10) — live — https://aithority.com/machine-learning/aithority-interview-with-luca-morena-ceo-of-nextatlas/ ^foresight-automation-weak-signals-40
+- Boutaleb, Picault & Grosjean (2024), BERTrend, arXiv:2411.05930 (T4#29) — live — http://arxiv.org/abs/2411.05930 ^foresight-automation-weak-signals-41
+- GOV.UK (Defra), "Weak signals and trend analysis: horizon scanning" (T1#27) — live — https://www.gov.uk/government/publications/weak-signals-and-trend-analysis-horizon-scanning/weak-signals-and-trend-analysis-horizon-scanning ^foresight-automation-weak-signals-42
+- OECD-OPSI, Futures & Foresight guide (T1#31) — live — https://oecd-opsi.org/guide/futures-and-foresight/ ^foresight-automation-weak-signals-43
+- UN SG, "To Think and Act for Future Generations" (Summit of the Future policy brief) (T1#33) — resolves-partial (PDF) — https://www.un.org/sites/un2.un.org/files/our-common-agenda-policy-brief-future-generations-en.pdf ^foresight-automation-weak-signals-44
+- WHO, Global Health Foresight activity page (T1#34) — live — https://www.who.int/activities/who-foresight---monitoring-emerging-technologies-and-building-futures-thinking ^foresight-automation-weak-signals-45
+- WHO (2022), "Emerging trends and technologies: a horizon scan" (T1#35) — live — https://www.who.int/publications/i/item/9789240044173 ^foresight-automation-weak-signals-46
+- WHO (2023), "Emerging technologies and scientific innovations" (T1#36) — resolves-partial — https://iris.who.int/server/api/core/bitstreams/4f70ab0e-e6aa-44fa-84da-b6085cf120e1/content ^foresight-automation-weak-signals-47
+- Nextatlas blog, validation study (L. Morena) (T2#7) — live — https://blog.nextatlas.com/article/listening-to-innovators-checking-with-the-crowd-the-value-and-limits-of-validating-foresight-luca-morena ^foresight-automation-weak-signals-48
+- Futures Platform, AI Futurist page (T2#19) — live — https://www.futuresplatform.com/ai-futurist ^foresight-automation-weak-signals-49
+- Futures Platform homepage (T2#16) — live — https://www.futuresplatform.com/ ^foresight-automation-weak-signals-50
+- Futures Platform, scenario analysis tool page (T2#17) — live — https://www.futuresplatform.com/scenario-analysis-planning-tool ^foresight-automation-weak-signals-51
+- Futures Platform, solution overview (T2#18) — live — https://www.futuresplatform.com/solution-overview-features ^foresight-automation-weak-signals-52
+- Futures Platform, Synapse page (T2#20) — live — https://www.futuresplatform.com/synapse ^foresight-automation-weak-signals-53
+- GOV.UK, "AI Insights: Agentic AI" (T1#26) — live — https://www.gov.uk/government/publications/ai-insights/ai-insights-agentic-ai-html ^foresight-automation-weak-signals-54
+- AllBestApps, Nextatlas review (2026-03) (T2#14) — live — https://allbestapps.net/ai-app/nextatlas/ ^foresight-automation-weak-signals-55
+- Software Advice, Futures Platform profile & reviews (T2#27) — bot-blocked (403 at fetch time; G2-network page) — https://www.softwareadvice.com/project-management/futures-platform-profile/ ^foresight-automation-weak-signals-56
+- CB Insights, Shaping Tomorrow profile (T2#43) — live — https://www.cbinsights.com/company/shaping-tomorrow ^foresight-automation-weak-signals-57
+- EPRS (2025), "Augmented foresight" (T4#34) — live — https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/774665/EPRS_BRI(2025)774665_EN.pdf ^foresight-automation-weak-signals-58
+- Tuck School, Scott D. Anthony faculty page (T1#4) — live — https://tuck.dartmouth.edu/faculty/faculty-directory/scott-d-anthony ^foresight-automation-weak-signals-59
+- Day & Schoemaker, "How Vigilant Companies Gain an Edge in Turbulent Times," MIT SMR (T1#2) — live — https://sloanreview.mit.edu/article/how-vigilant-companies-gain-an-edge-in-turbulent-times/ ^foresight-automation-weak-signals-60
+- MIT SMR, "Broadening Future Perspectives at the Bank of England" (T1#29) — live — https://sloanreview.mit.edu/article/scenario-planning-example-bank-of-england/ ^foresight-automation-weak-signals-61
+- SOIF homepage (T1#5) — live — https://www.soif.org.uk/ ^foresight-automation-weak-signals-62
+- SOIF, About Us (T1#6) — live — https://soif.org.uk/about-us/ ^foresight-automation-weak-signals-63
+- SOIF, Foresight services (T1#7) — live — https://soif.org.uk/foresight-services/ ^foresight-automation-weak-signals-64
+- SOIF Primer 2019 (PDF) (T1#11) — resolves-partial (PDF) — https://cdn2.hubspot.net/hubfs/5401550/SOIF2019+Primer.pdf ^foresight-automation-weak-signals-65
+- SOIF, Beyond Strategic Planning toolkit (PDF, 2024) (T1#9) — resolves-partial (PDF) — https://soif.org.uk/app/uploads/2024/01/Toolkit-Strategic-Foresight-Decision-Makers-compressed.pdf ^foresight-automation-weak-signals-66
+- SOIF, Foresight Toolkit for Policy Educators (PDF, 2025) (T1#10) — resolves-partial (PDF) — https://soif.org.uk/app/uploads/2025/06/Foresight-Toolkit-Policy-Educators.pdf ^foresight-automation-weak-signals-67
+- International Futures Forum, Three Horizons page (T1#37) — bot-blocked (403 at fetch time) — https://www.internationalfuturesforum.com/three-horizons ^foresight-automation-weak-signals-68
+- Sharpe, Hodgson, Leicester, Lyon & Fazey (2016), *Ecology and Society* 21(2):47 (T1#38) — live — https://ecologyandsociety.org/vol21/iss2/art47/ ^foresight-automation-weak-signals-69
+- Curry & Hodgson (2008), JFS 13(1), "Seeing in Multiple Horizons" (T1#39) — live — https://jfsdigital.org/articles-and-essays/2008-2/vol-13-no-1-august/articles/seeing-in-multiple-horizons-connecting-futures-to-strategy/ ^foresight-automation-weak-signals-70
+- SOIF blog, "From disruption to transformation" (Andrew Curry byline) (T1#48) — live — https://soif.org.uk/blog/from-disruption-to-transformation/ ^foresight-automation-weak-signals-71
+- SOIF, Summer Foresight Retreat page (T1#8) — live — https://soif.org.uk/retreat/ ^foresight-automation-weak-signals-72
+- SOIF, Implementation Handbook for the UN Declaration on Future Generations (PDF, 2024) (T1#14) — resolves-partial (PDF) — https://soif.org.uk/app/uploads/2024/09/SOIF_DFG_Implementation_Handbook_Sept-2024.pdf ^foresight-automation-weak-signals-73
+- UNESCO, Futures Literacy & Foresight (T1#43) — live — https://www.unesco.org/en/futures-literacy ^foresight-automation-weak-signals-74
+- EMA, TPD EU-IN Horizon Scanning Report (2026, PDF) (T1#19) — resolves-partial (PDF) — https://www.ema.europa.eu/en/documents/report/targeted-protein-degradation-eu-horizon-scanning-report_en.pdf ^foresight-automation-weak-signals-75
+- EMA, Nanotechnology-based medicinal products EU-IN HS Report (2025, PDF) (T1#20) — resolves-partial (PDF) — https://www.ema.europa.eu/en/documents/report/nanotechnology-based-medicinal-products-human-use-eu-horizon-scanning-report_en.pdf ^foresight-automation-weak-signals-76
+- EMA, Radiopharmaceuticals EU-IN HS Report (2026, PDF) (T1#21) — resolves-partial (PDF) — https://www.ema.europa.eu/system/files/documents/report/radiopharmaceuticals-eu-innovation-network-eu-horizon-scanning-report_en.pdf ^foresight-automation-weak-signals-77
+- EMA, NAMs EU-IN HS Report (2025, PDF) (T1#22) — resolves-partial (PDF) — https://www.ema.europa.eu/en/documents/report/new-approach-methodologies-eu-horizon-scanning-report_en.pdf ^foresight-automation-weak-signals-78
+- Hines et al. (2019), BMJ Open 9:e026764 (T1#23) — bot-blocked (403 at fetch time; DOI 10.1136/bmjopen-2018-026764) — https://bmjopen.bmj.com/content/9/5/e026764 ^foresight-automation-weak-signals-79
+- Vignali et al. (2022), "Health horizons," *Front. Med.* 9:1064003 (T1#18) — live — https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2022.1064003/full ^foresight-automation-weak-signals-80
+- CSS ETH Zürich, "Emerging Threats in the 21st Century" (PDF) (T1#41) — resolves-partial (PDF) — https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/Emerging-Threats-3.pdf ^foresight-automation-weak-signals-81
+- Nextatlas, Our Story (T2#4) — live — https://www.nextatlas.com/about/story ^foresight-automation-weak-signals-82
+- Nextatlas, LinkedIn company page (Tracxn feed) (T2#15) — live — https://uk.linkedin.com/company/nextatlas ^foresight-automation-weak-signals-83
+- Nextatlas blog, "Introducing Nextatlas' Meridian" (T2#8) — live — https://blog.nextatlas.com/article/introducing-meridian-ai-strategic-intelligence-layer ^foresight-automation-weak-signals-84
+- Market Logic, partnership expansion news (2026-06-17) (T2#9) — live — https://marketlogicsoftware.com/news/2026/market-logic-software-and-nextatlas-expand-partnership-to-combine-trend-detection-and-ai-powered-personas/ ^foresight-automation-weak-signals-85
+- WWD, "Westfield Shopping Center Unveils First Data-driven Shop" (2019) (T2#11) — live — https://wwd.com/fashion-news/fashion-features/westfield-shopping-center-unveils-first-data-driven-shop-the-trending-store-1203211686/ ^foresight-automation-weak-signals-86
+- Retail Insider, "Lessons for the High Street: Trending Store at Westfield with Nextatlas" (2019) (T2#12) — live — https://www.retailinsider.com/2019/07/lessons-for-the-high-street-trending-store-at-westfield-with-nextatlas/ ^foresight-automation-weak-signals-87
+- Evening Standard, Westfield AI pop-up (2019) (T2#13) — live — https://www.standard.co.uk/lifestyle/fashion/westfield-trending-store-ai-pop-up-save-the-children-a4154196.html ^foresight-automation-weak-signals-88
+- Futures Platform, Statzon merger announcement (2025-04-03) (T2#25) — live — https://www.futuresplatform.com/news/futures-platform-statzon-announce-merger-to-pioneer-ai-futures-intelligence ^foresight-automation-weak-signals-89
+- Suomen Asiakastieto, Futures Platform Oy financials (T2#28) — live — https://www.asiakastieto.fi/yritykset/fi/futures-platform-oy/27587331/taloustiedot ^foresight-automation-weak-signals-90
+- PitchBook, Futures Platform profile (T2#29) — bot-blocked (403 at fetch time) — https://pitchbook.com/profiles/company/164367-64 ^foresight-automation-weak-signals-91
+- Futures Platform, foresight tool page (T2#21) — live — https://www.futuresplatform.com/foresight-tool-for-actionable-insights-on-future-trends-disruptions ^foresight-automation-weak-signals-92
+- Futures Platform, Foresight Case Studies (T2#22) — live — https://www.futuresplatform.com/case-studies ^foresight-automation-weak-signals-93
+- Futures Platform, References (customer quotes) (T2#23) — live — https://www.futuresplatform.com/references ^foresight-automation-weak-signals-94
+- Takeoff Partners, "Futures Platform secures EUR 1 million financing" (T2#30) — live — https://www.takeoffpartners.com/what-s-new/all/futures-platform-secures-eur-1-million-financing ^foresight-automation-weak-signals-95
+- Futures Platform, Get started (T2#24) — live — https://www.futuresplatform.com/get-started ^foresight-automation-weak-signals-96
+- SoftwareAdviser.ai, Futures Platform profile (T2#48) — live — https://softwareadviser.ai/profile/futures-platform ^foresight-automation-weak-signals-97
+- Workflos AppStore, Futures Platform entry (T2#49) — live — https://workflos-ai.oss-us-west-1.aliyuncs.com/appstore/product/futures-platform ^foresight-automation-weak-signals-98
+- Shaping Tomorrow blog, "Transforming Foresight with AI Agents" (T2#42) — live — https://www.shapingtomorrow.com/blog/transforming-foresight-with-ai-agents ^foresight-automation-weak-signals-99
+- Shaping Tomorrow, Intelligence Programmes (indicative fees) (T2#35) — live — https://www.shapingtomorrow.com/intelligence-programmes ^foresight-automation-weak-signals-100
+- Shaping Tomorrow, Pricing (T2#36) — live — https://www.shapingtomorrow.com/pricing ^foresight-automation-weak-signals-101
+- Shaping Tomorrow, Private Sites (T2#37) — live — https://www.shapingtomorrow.com/webtext/447 ^foresight-automation-weak-signals-102
+- Shaping Tomorrow, Clients (T2#38) — live — https://www.shapingtomorrow.com/customers/clients ^foresight-automation-weak-signals-103
+- Shaping Tomorrow, Case Studies (T2#39) — live — https://www.shapingtomorrow.com/case-studies ^foresight-automation-weak-signals-104
+- Shaping Tomorrow, Case Study: DfT (T2#40) — live — https://www.shapingtomorrow.com/webtext/1126 ^foresight-automation-weak-signals-105
+- Shaping Tomorrow, Case Study: UNFCCC Resilience Frontiers (T2#41) — live — https://www.shapingtomorrow.com/webtext/1125 ^foresight-automation-weak-signals-106
+- Springer chapter, "Resilience Frontiers (RF) Initiative of the UNFCCC" (2024) (T2#44) — live — https://link.springer.com/chapter/10.1007/978-3-031-55956-3_11 ^foresight-automation-weak-signals-107
+- Resilience Frontiers, About/Vision (T2#45) — live — https://resiliencefrontiers.org/vision/ ^foresight-automation-weak-signals-108
+- "Weak Signals Interpretation to prevent strategic surprises: a literature review" (ICBME 2020 conf. paper) (T3#14) — resolves-partial (PDF) — https://www.dpublication.com/wp-content/uploads/2020/12/36-636.pdf ^foresight-automation-weak-signals-109
+- Aalto dissertation record A-365 (T3#8) — live — https://epub.lib.aalto.fi/en/diss/?cmd=show&dissid=400 ^foresight-automation-weak-signals-110
+- Kuusi & Hiltunen (2011), JFS 16(1), "The Signification Process of the Future Sign" (T3#13) — live — https://jfsdigital.org/articles-and-essays/2011-2/vol-16-no-1-september/articles/the-signification-process-of-the-future-sign/ ^foresight-automation-weak-signals-111
+- Rosa et al. (2025), TForMIX, IEEE Access 13 (T4#1) — bot-blocked (IEEE Xplore/DOAJ Cloudflare; DOI cited) — https://doi.org/10.1109/access.2025.3605116 (mirror: Semantic Scholar Graph API, TForMIX (T4#3) — live (JSON) — https://api.semanticscholar.org/graph/v1/paper/DOI:10.1109/ACCESS.2025.3605116) ^foresight-automation-weak-signals-112
+- OpenAlex, TForMIX record W4413925646 (T4#2) — resolves-partial (JS-rendered) — https://openalex.org/W4413925646 ^foresight-automation-weak-signals-113
+- OpenAlex, SSRN record W7134926118 (T4#5) — resolves-partial (JS-rendered) — https://openalex.org/W7134926118 ^foresight-automation-weak-signals-114
+- Stoliar & Savastiyanov (2023), "Using LLM classification in foresight studies," InterConf 157:367–375 (T4#25) — live (no DOI — confirmed absent) — https://archive.interconf.center/index.php/conference-proceeding/article/view/3813 ^foresight-automation-weak-signals-115
+- Savastiyanov & Stoliar (2024), DOI 10.15421/322421 (T4#27) — live — https://doi.org/10.15421/322421 ^foresight-automation-weak-signals-116
+- Burmaoglu, Saritas & Kara (2026), Research Square preprint rs-9166858/v1 (T4#37) — live — https://doi.org/10.21203/rs.3.rs-9166858/v1 ^foresight-automation-weak-signals-117
+- Khanbayov & Kurban (2026), arXiv:2606.12828 (T4#30) — live — http://arxiv.org/abs/2606.12828 (DOI 10.5281/zenodo.20635334) ^foresight-automation-weak-signals-118
+- Poli Nemkova et al. (2025), arXiv:2505.09852 (T4#31) — live — http://arxiv.org/abs/2505.09852 ^foresight-automation-weak-signals-119
+- Ferrer i Picó et al. (2025), "The Time Machine," *Future Internet* 17(1):48 (T4#32) — live (DOI) — https://doi.org/10.3390/fi17010048 ^foresight-automation-weak-signals-120
+- Carlsen et al. (2024), "AI Assisted Scenario Building for Sustainable Development" (UN brief, PDF) (T4#35) — resolves-partial (PDF) — https://sdgs.un.org/sites/default/files/2024-05/Carlsen_AI%20Assisted%20Scenario%20Building%20for%20Sustainable%20Development.pdf ^foresight-automation-weak-signals-121
+- UNEP & ISC (2024), "Navigating New Horizons" (T4#38) — bot-blocked (403 at fetch time; DOI cited) — https://doi.org/10.59117/20.500.11822/45890 ^foresight-automation-weak-signals-122
+- Alur et al. (2025), AIA Forecaster, arXiv:2511.07678 (T4#17) — live — http://arxiv.org/abs/2511.07678 ^foresight-automation-weak-signals-123
+- EMA, EU Innovation Network (EU-IN) page (T1#17) — resolves-partial (fetched; EMA page) — https://www.ema.europa.eu/en/committees/working-parties-other-groups/eu-innovation-network-eu ^foresight-automation-weak-signals-124
+- T4 research file, blocked/unverified items section (§7) — local research artifact, no public URL — `outputs/.drafts/foresight-automation-weak-signals-research-T4.md` (records the Karger arXiv 2302.09269 ID mismatch and the TForMIX/SSRN full-text blocks) **Internal vault references retained from the draft (not public URLs):** `[vault]` = vault brief `agentic-signal-intelligence` (dims 2–3); `[vault-literature-19]` = entry 19 of the vault's literature file (cf. [15] SSRN); `[vault-gaps]` = the vault brief's gap list (ISO standards check). These are provenance markers only; they were not verified by URL fetch this run. **Verifier notes:** (i) no dead links found — every cited URL either fetched live, resolved with partial body extraction (PDF/JS pages), or is a documented bot-blocked page whose canonical DOI/arXiv identifier is cited instead; (ii) no source was removed for dead-link reasons; (iii) no unsourced factual claim was silently dropped — every quantitative claim in the draft maps to a research-file evidence-table row, with vendor figures retained as [REPORTED]; (iv) no `Removed Unsupported Claims` section is needed because nothing was removed. --- - Every quantitative claim in this draft traces to a research-file evidence-table entry or cited URL (checked above per section; vendor figures marked REPORTED). - No invented sources: the unverifiable "Karger 2023" ID is excluded and flagged; TForMIX/SSRN limitations marked blocked rather than inferred. - Marked inferences: section 5.4, 6.2 design nuance, 7.1(1,3,4), 7.2, "limits of the four-keys piece"; institutional "what it means for automation" notes. ^foresight-automation-weak-signals-125

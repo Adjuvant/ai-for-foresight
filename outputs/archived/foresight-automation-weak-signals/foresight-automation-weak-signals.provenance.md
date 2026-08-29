@@ -1,0 +1,14 @@
+# Provenance: Foresight Automation & Weak-Signal Methods
+
+- **Date:** 2026-08-23
+- **Rounds:** 1 deep-research round (4 parallel researcher tracks, then verifier, then reviewer). Builds on the vault's prior literesearch scan `agentic-signal-intelligence` (2026-08-22, dims 2–3) and its dimension sweep logs.
+- **Sources consulted:** 154 research-file evidence entries across 4 tracks (T1: 48, T2: 50, T3: 18, T4: 38), plus the vault's existing Literature list (entries [9]–[19]).
+- **Sources accepted:** 126 numbered sources in the final cited brief — every cited URL either fetched live, resolved with partial extraction (PDF/JS-heavy pages), or is a documented bot-blocked page whose canonical DOI/arXiv ID is cited instead. No source removed for dead-link reasons. Vendor capability figures retained as `[REPORTED]`, not accepted as fact.
+- **Sources rejected / excluded:** "Karger et al. 2023, 'Forecasting with Language Models' (arXiv 2302.09269)" — verified ID mismatch (2302.09269 is an astro-ph paper); excluded from the report and flagged for vault literature-entry correction. Vendor performance claims (Nextatlas 30-month lead / 93% accuracy; Futures Platform "No hallucinations" and Dubai Municipality 390%/98%; Shaping Tomorrow source counts) are reported as claims, with internal inconsistencies surfaced rather than resolved.
+- **Verification:** PASS WITH NOTES
+  - Automated citation-integrity check by reviewer: 126/126 inline citations resolve to Sources and vice versa; zero orphan/phantom citations.
+  - Reviewer found 1 MAJOR (W1: "only fully prospective institutional-scale" overstatement, contradicted by the report's own 2023 Metaculus citation) and 2 MINOR (W2: vendor figure label "1500+ trend analyses" → "1500+ content cards"; W3: missing inline inference tags on §7.1 bullets 1–3). All three fixed in `outputs/.drafts/foresight-automation-weak-signals-revised.md`; on-disk `rg`/`grep` checks confirm old wording removed (W1: 0 hits; W2: 0 hits) and corrected wording present (W1: 1; W2: 1; W3: 3 tags; OQ7 added: 1).
+  - Residual notes: SSRN 2026 numbers are single-source (Crossref-captured abstract — SSRN page bot-blocked); re-verification added as Open Question 7. TForMIX and SSRN author-stated limitations unreadable (bot-blocked) — marked blocked, not inferred. ISO horizon-scanning standards numbering (27950/56088) remains unverified. `memory_remember` unavailable in toolset — plan persistence disk-only.
+- **Plan:** outputs/.plans/foresight-automation-weak-signals.md
+- **Research files:** outputs/.drafts/foresight-automation-weak-signals-research-T1.md, -T2.md, -T3.md, -T4.md; outputs/.drafts/foresight-automation-weak-signals-draft.md; -cited.md; -verification.md; -revised.md (final candidate)
+- **Final artifact:** outputs/foresight-automation-weak-signals.md
