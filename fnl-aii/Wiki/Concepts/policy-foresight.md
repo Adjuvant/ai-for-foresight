@@ -11,11 +11,13 @@ sources:
   - "[[Research/AI Systems & Deployment/agentic-signal-intelligence]]"
   - "[[Research/AI Systems & Deployment/foresight-automation-weak-signals]]"
   - "[[Raw/candyTurningForesightOut2025]]"
+  - "[[Research/AI Systems & Deployment/science-fiction-military-planning]]"
 related:
   - "[[Wiki/Concepts/horizon-scanning]]"
   - "[[Wiki/Concepts/agentic-osint]]"
   - "[[Wiki/Synthesis/agentic-signal-intelligence]]"
   - "[[Wiki/Concepts/experiential-futures]]"
+  - "[[Wiki/Concepts/science-fiction-planning]]"
 created: 2026-08-23
 updated: 2026-08-29
 ---
@@ -32,6 +34,7 @@ Institutionalised foresight programmes that feed policy and regulation — EU St
 - UN DESA and the OECD institutionalise the demand side: leaders who do not embed foresight 'risk being repeatedly surprised by changes that could have been anticipated', and discounting plausible futures 'leaves economies and societies vulnerable to unexpected shocks' [3] [[Literature/foresight-automation-weak-signals#^foresight-automation-weak-signals-3]] [23] [[Literature/foresight-automation-weak-signals#^foresight-automation-weak-signals-23]].
 - EMA's daily-screening/annual-prioritisation pattern, with published deep-dive reports (targeted protein degradation, radiopharmaceuticals, NAMs, Alzheimer's), functions as a de facto requirement set for any future institutional scanning tool [1] [[Literature/foresight-automation-weak-signals#^foresight-automation-weak-signals-1]].
 - Experiential futures methods are positioned for extension into formal institutional contexts — governments, nonprofits, classrooms, businesses — including future-image deliberation loops tied to public election cycles and participatory organisational governance. ([[Raw/candyTurningForesightOut2025]])
+- Defence organisations are the most visible institutional adopters of speculative narrative as a foresight instrument — NATO ACT, France's Red Team Défense, UK Dstl and the US Army Mad Scientist Laboratory all commissioned fiction or writers' rooms for planning purposes between 2016 and 2026 [1][3][5][7] [[Literature/science-fiction-military-planning#^science-fiction-military-planning-1]] [[Literature/science-fiction-military-planning#^science-fiction-military-planning-3]] [[Literature/science-fiction-military-planning#^science-fiction-military-planning-5]] [[Literature/science-fiction-military-planning#^science-fiction-military-planning-7]].
 
 ## Tensions and Contradictions
 
@@ -40,5 +43,6 @@ Institutionalised foresight programmes that feed policy and regulation — EU St
 - [[Wiki/Concepts/agentic-osint]]
 - [[Wiki/Synthesis/agentic-signal-intelligence]]
 - [[Wiki/Concepts/experiential-futures]]
+- [[Wiki/Concepts/science-fiction-planning]]
 
 ## Open Questions

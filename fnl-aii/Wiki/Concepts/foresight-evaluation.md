@@ -11,9 +11,11 @@ tags:
   - foresight-evaluation
 sources:
   - "[[Research/AI Systems & Deployment/foresight-automation-weak-signals]]"
-related: []
+  - "[[Research/AI Systems & Deployment/science-fiction-military-planning]]"
+related:
+  - "[[Wiki/Concepts/science-fiction-planning]]"
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-29
 ---
 
 # Foresight Evaluation
@@ -25,9 +27,11 @@ The field's core open problem: how to measure whether scanning is 'early and rig
 - Retrospective backtests of LLM foresight are threatened by training-data contamination — measured at 1–45% across six benchmarks with up to +14% accuracy inflation — unless leakage is audited, e.g., the BLF forecaster's backtesting framework at <1.5% leakage [29] [[Literature/foresight-automation-weak-signals#^foresight-automation-weak-signals-29]] [17] [[Literature/foresight-automation-weak-signals#^foresight-automation-weak-signals-17]].
 - More capable LLMs can make worse tail-risk forecasts under single-threshold metrics; evaluation should pair continuous unbounded accuracy measures with bounded binary scores [21] [[Literature/foresight-automation-weak-signals#^foresight-automation-weak-signals-21]].
 - Evaluation design changes conclusions: a single GPT-4 failed live probabilistic forecasting (statistically indistinguishable from the 50% baseline), while a 12-LLM ensemble matched a 925-human crowd and LLM assistants improved human forecasters 24–28% [14] [[Literature/foresight-automation-weak-signals#^foresight-automation-weak-signals-14]] [34] [[Literature/foresight-automation-weak-signals#^foresight-automation-weak-signals-34]] [35] [[Literature/foresight-automation-weak-signals#^foresight-automation-weak-signals-35]].
+- Impact evaluation of speculative-future interventions is currently absent: no verified study shows a commissioned SF program (NATO, Red Team Défense, Dstl, US Army) changing doctrine or procurement, and the only peer-reviewed audit reports narrative convergence (twelve 'strikingly similar' NATO stories) rather than measured effect [2][4] [[Literature/science-fiction-military-planning#^science-fiction-military-planning-2]] [[Literature/science-fiction-military-planning#^science-fiction-military-planning-4]].
 
 ## Tensions and Contradictions
 
 ## Related
+- [[Wiki/Concepts/science-fiction-planning]]
 
 ## Open Questions

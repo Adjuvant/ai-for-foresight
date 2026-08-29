@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-08-29] ingest | science-fiction-military-planning → science-fiction-planning, policy-foresight, foresight-evaluation
+
 ## [2026-08-29] ingest | candyTurningForesightOut2025 → experiential-futures, policy-foresight
 
 ## [2026-08-23] verify | ai-led-interviews → dead-links: 0 fixed, schema: 0 fixed, stubs: 0 fixed, orphans: 0 fixed (0 flagged), tenuous: 0 removed (5 flagged), index: 0 fixed, consolidation: 0 flagged, claim-register: 0 flagged. Note: 5 tenuous tag-overlap pairs flagged for human review (semantic links kept): ai-led-interviews↔llm-assisted-qualitative-analysis, ai-led-interviews↔ai-data-residency, ai-led-interviews↔ai-consent-research, llm-assisted-qualitative-analysis↔synthetic-respondents, ai-research-methods↔ai-data-residency. Note: numbered_citations_unattributed on the 5 ai-led-interviews concept pages + ai-research-methods = pre-existing verbatim-on-page Sources pattern (per 2026-08-22 ingest-fix), outside verify fix scope. Note: entity stub flagging unavailable — wiki_fix set_stub is concept-scoped; friedrich-geiecke/xavier-jaravel judged minimal-but-complete, left unflagged. Note: sync_wiki_index `_index` stale/duplicate flags are router-format artifacts (wiki_fix dry-run = 0 changes); no repair.
