@@ -1,7 +1,7 @@
 ---
 type: wiki-index
 category: entity
-updated: 2026-08-23
+updated: 2026-08-29
 ---
 
 # Entities Index
@@ -11,4 +11,5 @@ updated: 2026-08-23
 - [[Wiki/Entities/google]] — Provider of Gemini Deep Research and the Gemini Enterprise Agent Platform — the EU-pinnable path in the ai-data-residency thread — central to agentic research and policy-scanning stacks.
 - [[Wiki/Entities/microsoft]] — Vendor of the AutoGen multi-agent framework (agentic-framework substrate) and Azure AI Foundry (the data-residency path in the ai-led-interviews thread), bridging the two research threads.
 - [[Wiki/Entities/openai]] — AI lab whose Deep Research and Operator agents are the reference collection-and-synthesis substrate in agentic signal-intelligence adaptations; also the API provider whose EU residency path is approval-gated (ai-led-interviews thread).
+- [[Wiki/Entities/stuart-candy]] — Futurist and originator of experiential futures; co-creator of the EXF cycle, situated by Pink et al. (2023) as the step-by-step strand of ethnographic foresighting.
 - [[Wiki/Entities/xavier-jaravel]] — LSE economist, co-author of Conversations at Scale; positions AI-led interviews as complement, not substitute.

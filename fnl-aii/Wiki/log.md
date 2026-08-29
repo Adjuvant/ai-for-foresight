@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-08-29] ingest | pinkDesignAnthropologicalForesighting2023 → anthropological-foresighting, experiential-futures, strategic-foresight, forecasting, policy-foresight, stuart-candy (kelly-kornet kept inline within stuart-candy — co-author, no standalone substance yet) | CLAIMS: 1 register entries added/updated
+
+## [2026-08-29] ingest | kohlerStrategicForesightKnowledge2021 → strategic-foresight, horizon-scanning, weak-signals, trend-analysis, forecasting, scenario-planning, foresight-evaluation, policy-foresight, science-fiction-planning | CLAIMS: 1 register entries added/updated
+
 ## [2026-08-29] ingest | science-fiction-military-planning → science-fiction-planning, policy-foresight, foresight-evaluation
 
 ## [2026-08-29] ingest | candyTurningForesightOut2025 → experiential-futures, policy-foresight

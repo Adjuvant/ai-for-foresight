@@ -7,4 +7,6 @@
 - 2026-08-23T01:16:01.744Z archived:: foresight-automation-weak-signals path:: Research/AI Systems & Deployment/foresight-automation-weak-signals.md sources:: 0
 
 - 2026-08-29: ingest candyTurningForesightOut2025 → Raw/candyTurningForesightOut2025.md
+- 2026-08-29: ingest pinkDesignAnthropologicalForesighting2023 → Raw/pinkDesignAnthropologicalForesighting2023.md
+- 2026-08-29: ingest kohlerStrategicForesightKnowledge2021 → Raw/kohlerStrategicForesightKnowledge2021.md
 2026-08-29T20:20:14.246Z archived:: science-fiction-military-planning path:: Research/AI Systems & Deployment/science-fiction-military-planning.md sources:: 30

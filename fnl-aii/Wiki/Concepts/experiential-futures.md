@@ -10,8 +10,11 @@ tags:
   - participatory-foresight
 sources:
   - "[[Raw/candyTurningForesightOut2025]]"
+  - "[[Raw/pinkDesignAnthropologicalForesighting2023]]"
 related:
   - "[[Wiki/Concepts/policy-foresight]]"
+  - "[[Wiki/Concepts/anthropological-foresighting]]"
+  - "[[Wiki/Entities/stuart-candy]]"
 created: 2026-08-29
 updated: 2026-08-29
 ---
@@ -25,10 +28,13 @@ A family of approaches making images of the future visible, tangible, interactiv
 - The Ethnographic Experiential Futures (EXF) Cycle — Map, optional Multiply, Mediate, Mount, then Map again — describes a generic structure that recurs even across projects created independently of the framework. ([[Raw/candyTurningForesightOut2025]])
 - EXF projects distinguish themselves from much speculative design and design fiction by explicitly attempting to gauge impact, mapping responses to the staged futures encounter. ([[Raw/candyTurningForesightOut2025]])
 - Ethnographic depth in experiential-futures practice functions as a design parameter on a spectrum rather than a fixed methodological boundary, traded against participant access and project feasibility. ([[Raw/candyTurningForesightOut2025]])
+- Whereas EXF-style approaches such as Candy and Kornet's (2019) offer step-by-step processes for developing foresight, anthropological foresighting is deliberately 'messy' and uneven — it follows 'ethnographic hunches' rather than calling on other researchers to replicate precise steps. ([[Raw/pinkDesignAnthropologicalForesighting2023]])
 
 ## Tensions and Contradictions
 
 ## Related
 - [[Wiki/Concepts/policy-foresight]]
+- [[Wiki/Concepts/anthropological-foresighting]]
+- [[Wiki/Entities/stuart-candy]]
 
 ## Open Questions

@@ -12,12 +12,17 @@ sources:
   - "[[Research/AI Systems & Deployment/foresight-automation-weak-signals]]"
   - "[[Raw/candyTurningForesightOut2025]]"
   - "[[Research/AI Systems & Deployment/science-fiction-military-planning]]"
+  - "[[Raw/kohlerStrategicForesightKnowledge2021]]"
+  - "[[Raw/pinkDesignAnthropologicalForesighting2023]]"
 related:
   - "[[Wiki/Concepts/horizon-scanning]]"
   - "[[Wiki/Concepts/agentic-osint]]"
   - "[[Wiki/Synthesis/agentic-signal-intelligence]]"
   - "[[Wiki/Concepts/experiential-futures]]"
   - "[[Wiki/Concepts/science-fiction-planning]]"
+  - "[[Wiki/Concepts/strategic-foresight]]"
+  - "[[Wiki/Concepts/forecasting]]"
+  - "[[Wiki/Concepts/anthropological-foresighting]]"
 created: 2026-08-23
 updated: 2026-08-29
 ---
@@ -35,6 +40,11 @@ Institutionalised foresight programmes that feed policy and regulation — EU St
 - EMA's daily-screening/annual-prioritisation pattern, with published deep-dive reports (targeted protein degradation, radiopharmaceuticals, NAMs, Alzheimer's), functions as a de facto requirement set for any future institutional scanning tool [1] [[Literature/foresight-automation-weak-signals#^foresight-automation-weak-signals-1]].
 - Experiential futures methods are positioned for extension into formal institutional contexts — governments, nonprofits, classrooms, businesses — including future-image deliberation loops tied to public election cycles and participatory organisational governance. ([[Raw/candyTurningForesightOut2025]])
 - Defence organisations are the most visible institutional adopters of speculative narrative as a foresight instrument — NATO ACT, France's Red Team Défense, UK Dstl and the US Army Mad Scientist Laboratory all commissioned fiction or writers' rooms for planning purposes between 2016 and 2026 [1][3][5][7] [[Literature/science-fiction-military-planning#^science-fiction-military-planning-1]] [[Literature/science-fiction-military-planning#^science-fiction-military-planning-3]] [[Literature/science-fiction-military-planning#^science-fiction-military-planning-5]] [[Literature/science-fiction-military-planning#^science-fiction-military-planning-7]].
+- Political systems that directly integrate strategic foresight into the processes of their executive branch, such as the UK or Singapore, have a more direct causal path from foresight results to high-level decision-making than decentralised systems such as Switzerland and Germany. ([[Raw/kohlerStrategicForesightKnowledge2021]])
+- Germany is an outlier among OECD countries in that it scores high on the EU Global Innovation Indicator but low on the value of its national foresight studies, with no centralised system for strategic foresight (per Meissner 2012). ([[Raw/kohlerStrategicForesightKnowledge2021]])
+- The forecasting track record of experts is almost entirely disconnected from public discourse: media organisations select commentators based on subject-matter expert databases, institutional credentials, and the predictability and strength of opinions — sometimes a conscious choice for 'policy-based evidence'. ([[Raw/kohlerStrategicForesightKnowledge2021]])
+- CBRN threat anticipation is primarily part of the civil protection and military clusters of foresight practice, where national risk assessments typically look five years ahead, and reference scenarios of hazards and threats are used to develop possible responses. ([[Raw/kohlerStrategicForesightKnowledge2021]])
+- The Digital Energy Futures project exemplifies a policy-relevant institutional foresight configuration: an Australian Research Council Linkage project (LP180100203) with industry and government partners (Ausgrid, AusNet Services, Energy Consumers Australia) that produced 14 reframing concepts for the energy sector, aimed at correcting the dominant industry and government future visions that underpin sectoral planning. ([[Raw/pinkDesignAnthropologicalForesighting2023]])
 
 ## Tensions and Contradictions
 
@@ -44,5 +54,8 @@ Institutionalised foresight programmes that feed policy and regulation — EU St
 - [[Wiki/Synthesis/agentic-signal-intelligence]]
 - [[Wiki/Concepts/experiential-futures]]
 - [[Wiki/Concepts/science-fiction-planning]]
+- [[Wiki/Concepts/strategic-foresight]]
+- [[Wiki/Concepts/forecasting]]
+- [[Wiki/Concepts/anthropological-foresighting]]
 
 ## Open Questions
