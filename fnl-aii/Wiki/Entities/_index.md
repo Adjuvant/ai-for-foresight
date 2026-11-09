@@ -1,11 +1,12 @@
 ---
 type: wiki-index
 category: entity
-updated: 2026-08-29
+updated: 2026-11-09
 ---
 
 # Entities Index
 
+- [[Wiki/Entities/amd-strix-halo]] — AMD Ryzen AI MAX+ 395 / Radeon 8060S (gfx1151) workstation: 128 GB unified memory, 96 GB addressable on Windows, about 256 GB/s of bandwidth, running PyTorch through ROCm rather than CUDA — capacity-rich and bandwidth-poor.
 - [[Wiki/Entities/anthropic]] — AI lab whose Claude models and multi-agent research system build-notes anchor the agentic-research pattern; also the US-pinning-only API provider documented in the ai-data-residency thread.
 - [[Wiki/Entities/friedrich-geiecke]] — Co-author of Conversations at Scale (SSRN 4974382; in press at the Review of Economic Studies).
 - [[Wiki/Entities/google]] — Provider of Gemini Deep Research and the Gemini Enterprise Agent Platform — the EU-pinnable path in the ai-data-residency thread — central to agentic research and policy-scanning stacks.

@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-11-09] entity | amd-strix-halo created — standing reference node for the Strix Halo ML workstation (gfx1151, ROCm 7.2, 96 GB addressable); procedures and capability ledger live in Projects/strix-halo-ml
+
+## [2026-11-09] ingest | ncm → unit-of-prediction-vs-output, coarse-to-fine-generation, parallel-decoding, lossy-latent-bottleneck, test-time-compute, consensus-candidate-selection, tokenization-inductive-bias (concepts mentioned in source without pages yet: residual vector quantization, nested dropout, conditioning corruption, block-diagonal attention, EMA codebooks) | CLAIMS: 1 register entries added/updated
+
+## [2026-10-09] ingest | bostromBytePairEncoding2020 → byte-pair-encoding, unigram-language-model-tokenization, subword-tokenization, subword-morphology-alignment, tokenization-inductive-bias | CLAIMS: 1 register entries added/updated
+
 ## [2026-08-29] ingest | pinkDesignAnthropologicalForesighting2023 → anthropological-foresighting, experiential-futures, strategic-foresight, forecasting, policy-foresight, stuart-candy (kelly-kornet kept inline within stuart-candy — co-author, no standalone substance yet) | CLAIMS: 1 register entries added/updated
 
 ## [2026-08-29] ingest | kohlerStrategicForesightKnowledge2021 → strategic-foresight, horizon-scanning, weak-signals, trend-analysis, forecasting, scenario-planning, foresight-evaluation, policy-foresight, science-fiction-planning | CLAIMS: 1 register entries added/updated

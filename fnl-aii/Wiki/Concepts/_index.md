@@ -1,7 +1,7 @@
 ---
 type: wiki-index
 category: concept
-updated: 2026-08-29
+updated: 2026-11-09
 ---
 
 # Concepts Index
@@ -11,6 +11,9 @@ updated: 2026-08-29
 - [[Wiki/Concepts/ai-data-residency]] — Jurisdictional pinning of LLM API processing and storage; Google's pinnable path (Gemini Enterprise Agent Platform EU endpoints) now verified, whisper-1 voice leak persists.
 - [[Wiki/Concepts/ai-led-interviews]] — LLM-conducted interviews with human respondents, positioned as a scaleable complement to human expert interviewers; 2026-08-22 follow-up verified REStud in-press status, found no replication, added first peer-reviewed measurement of interviewer-induced answer-shaping (POQ 2026).
 - [[Wiki/Concepts/anthropological-foresighting]] — The ethnographic/anthropological strand of qualitative foresight: non-predictive foresights and 'reframing concepts' that correct dominant sociotechnical imaginaries (Pink et al. 2023).
+- [[Wiki/Concepts/byte-pair-encoding]] — Bottom-up subword vocabulary construction that merges the most frequent token bigram until the vocabulary reaches its target size; the dominant method in pretrained language models, and the one Bostrom and Durrett (2020) find inferior to unigram LM tokenization at identical pretraining settings.
+- [[Wiki/Concepts/coarse-to-fine-generation]] — Commit to the gist of an output early, when the decision is cheap and forgiving, then refine toward detail; the structural template is VAR's next-scale image prediction, transferred to text with a learned multiscale code hierarchy and three text-specific fixes.
+- [[Wiki/Concepts/consensus-candidate-selection]] — Generate several complete candidates, score each against the others with an existing overlap metric, and keep the one nearest the group — a consensus pick that needs no reference answer, judge or retraining, and that optimises the metric rather than quality.
 - [[Wiki/Concepts/deep-research-agents]] — Deep-Research-class agent systems — OpenAI Deep Research, Google Gemini Deep Research, Perplexity Deep Research and open clones (STORM, gpt-researcher, open_deep_research) — have become the default collection-and-synthesis layer that foresight and policy pilots wrap with source feeds and taxonomies.
 - [[Wiki/Concepts/experiential-futures]] — A family of approaches making images of the future tangible; EXF pattern codifies the action-research loop, situated as the step-by-step strand of a broader ethnographic foresighting family.
 - [[Wiki/Concepts/forecasting]] — Falsifiable predictions from judgement and statistics; Pink et al. (2023) delimit its scope for emerging technologies not yet ubiquitous in everyday life.
@@ -18,10 +21,18 @@ updated: 2026-08-29
 - [[Wiki/Concepts/future-sign]] — Hiltunen's semiotic reframe of weak signals (Futures, 2008): a 'future sign' has three dimensions — the signal carrier, the underlying issue, and the interpretation — making weakness a joint property across dimensions rather than a property of the information alone; Hiltunen proposed renaming weak signals 'weak future signs'.
 - [[Wiki/Concepts/horizon-scanning]] — Systematic and repeated examination of 'weak signals' hinting at future developments, threats or opportunities; classical definition per Kohler (2021), with the 2026 institutional record showing practice ahead of verified LLM tooling.
 - [[Wiki/Concepts/llm-assisted-qualitative-analysis]] — LLM coding of transcripts; 86% vs 84% of human-human unresolved, no universal agreement cutoff, agreement-with-humans yardstick under published critique.
+- [[Wiki/Concepts/lossy-latent-bottleneck]] — When a model predicts through a compressed representation, the compressor sets a hard upper bound on everything downstream, so compress-decompress fidelity belongs before any other evaluation.
+- [[Wiki/Concepts/parallel-decoding]] — Emitting several positions per forward pass so throughput comes from needing fewer sequential calls rather than from making each call faster — pass cost has a hardware floor, pass count only a willingness-to-emit floor.
 - [[Wiki/Concepts/policy-foresight]] — Institutionalised foresight programmes feeding policy and regulation, including research configurations such as Australia's Digital Energy Futures project.
 - [[Wiki/Concepts/scenario-planning]] — What-if exploration of possible or preferable futures without quantifying likelihood; CBRN contexts should favour closed, invitation-only formats due to information hazards.
 - [[Wiki/Concepts/science-fiction-planning]] — Defence organisations commission or methodize science fiction as a planning instrument — with impact evidence base lagging the enthusiasm.
 - [[Wiki/Concepts/strategic-foresight]] — Umbrella term for methods that reduce uncertainty about the future; Kohler (2021) supplies the classical review, Pink et al. (2023) add the ethnographic strand that reframes dominant future visions.
+- [[Wiki/Concepts/subword-morphology-alignment]] — How closely unsupervised subword boundaries line up with gold morphological segmentation — the diagnostic Bostrom and Durrett (2020) use to explain why the tokenization choice changes downstream performance.
+- [[Wiki/Concepts/subword-tokenization]] — Segmenting text into subword units so a fixed-size vocabulary can cover an open vocabulary; the choice is locked into a pretrained model, because downstream use must reuse the original vocabulary.
 - [[Wiki/Concepts/synthetic-respondents]] — LLM simulation of survey participants; validity boundary item- and task-dependent, Westwood-vs-Rothschild contamination dispute live, AI-interviewer shift of the boundary untested.
+- [[Wiki/Concepts/test-time-compute]] — Spending more compute at inference is at least three bets with different requirements and failure modes — thinking longer, sampling and selecting, and learning at test time — and arguments about whether it works are usually about which is meant.
+- [[Wiki/Concepts/tokenization-inductive-bias]] — A pretrained model's input encoding carries measurable inductive bias, so tokenization belongs to the pretraining design space; the multiscale VQ hierarchy extends the argument from input encoding to prediction granularity.
 - [[Wiki/Concepts/trend-analysis]] — Analysis of established ongoing dynamics — statistical trends, structural shifts, megatrends — including causes and impacts, with expert event prediction degrading beyond a five-year horizon.
+- [[Wiki/Concepts/unigram-language-model-tokenization]] — Top-down tokenization: start from a superset of candidate substrings and prune it under a unigram language model, removing the tokens whose loss costs least likelihood (Kudo, 2018). Bostrom and Durrett (2020) find it recovers morphology-aligned units and beats BPE on downstream tasks.
+- [[Wiki/Concepts/unit-of-prediction-vs-output]] — A language model makes two decisions most designs conflate — what unit it predicts and what unit it prints; Next-Concept Modeling separates them, predicting a whole level of a learned code hierarchy and expanding to tokens only at the end.
 - [[Wiki/Concepts/weak-signals]] — Theory lineage of weak-signal detection from Ansoff (1975) through Hiltunen's 'future sign' to the 2021 unified construct; LLM-era adaptation early and pilot-scale.

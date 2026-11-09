@@ -1,0 +1,62 @@
+---
+type: reference-list
+slug: ncm
+brief: "[[Research/Machine Learning Methods/ncm]]"
+generated: 2026-11-09
+---
+
+- Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation (arXiv abs, v1 only, 9 Oct 2026) — https://arxiv.org/abs/2610.14162 (mirror: Full text v1 (HTML; §1–5, Appendices A–J, Tables 1–11, Figures 1–19) — https://arxiv.org/html/2610.14162v1) ^ncm-1
+- Hazy Research blog, "Next-Concept Modeling" (12 Oct 2026) — https://hazyresearch.stanford.edu/blog/2026-10-12-ncm ^ncm-2
+- Stanford Scaling Intelligence Lab publication page — https://scalingintelligence.stanford.edu/pubs/ncm/ ^ncm-3
+- **Stanford Scaling Intelligence Lab blog mirror (same text as [3])** — https://scalingintelligence.stanford.edu/blogs/ncm/ ^ncm-4
+- `HazyResearch/ncm` repository (MIT; 1,671★; 5 commits; last push 2026-10-14) — https://github.com/HazyResearch/ncm ^ncm-5
+- Repository README (released-models table — note the OWT links do not resolve — eval instructions, BibTeX) — https://github.com/HazyResearch/ncm/blob/main/README.md ^ncm-6
+- `hazyresearch/ncm-checkpoints` (HF model repo, MIT, 2026-10-13) — https://huggingface.co/hazyresearch/ncm-checkpoints ^ncm-7
+- `hazyresearch/ncm-datasets` (HF dataset repo, eval sets) — https://huggingface.co/datasets/hazyresearch/ncm-datasets ^ncm-8
+- NCM Hugging Face collection — https://huggingface.co/collections/hazyresearch/ncm ^ncm-9
+- `owt/TODO.md` — the OpenWebText slot's entire contents (weights 404) — https://huggingface.co/hazyresearch/ncm-checkpoints/blob/main/owt/TODO.md ^ncm-10
+- Released XSum generator config (`predict_level0`, `attn_pattern`, tied heads, tokenizer block) — https://huggingface.co/hazyresearch/ncm-checkpoints/blob/main/xsum/config.yaml ^ncm-11
+- `models/next_concept.py` — generator, `generate()`, per-level loop, block-diagonal mask — https://github.com/HazyResearch/ncm/blob/main/models/next_concept.py ^ncm-12
+- `models/quant.py` — `MultiscaleResidualVectorQuantizer`, EMA codebooks, `idx_to_zhats` — https://github.com/HazyResearch/ncm/blob/main/models/quant.py ^ncm-13
+- `utils/registry.py` — level schedulers incl. the `(n-2)**2` quadratic — https://github.com/HazyResearch/ncm/blob/main/utils/registry.py ^ncm-14
+- Issue #9 — "Which inference settings were used for the Figure 1 / Section 4.6 timings?" (repro table + maintainer reply) — https://github.com/HazyResearch/ncm/issues/9 ^ncm-15
+- Issue #10 — "There isn't any code for the training" (open) — https://github.com/HazyResearch/ncm/issues/10 ^ncm-16
+- Issue #11 — "`idx_to_zhats` returns the same tensor for every level" — https://github.com/HazyResearch/ncm/issues/11 ^ncm-17
+- Issue #19 — "Independent MLX experiments … (incl. negative results)" — https://github.com/HazyResearch/ncm/issues/19 ^ncm-18
+- Issue #21 — quadratic level schedule normalises by `(n-2)**2` — https://github.com/HazyResearch/ncm/issues/21 ^ncm-19
+- Issue #24 — questions on the conditioning-corruption schedule (§3.4 / F.3) — https://github.com/HazyResearch/ncm/issues/24 ^ncm-20
+- PR #25 — Apple Silicon MLX port with reproduction numbers — https://github.com/HazyResearch/ncm/pull/25 ^ncm-21
+- Issue #3 — Papers with Code verification request, author-verified response — https://github.com/HazyResearch/ncm/issues/3 ^ncm-22
+- VAR — Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction — https://arxiv.org/abs/2404.02905 ^ncm-23
+- HMAR — Efficient Hierarchical Masked Auto-Regressive Image Generation (Kumbong et al., CVPR 2025) — https://arxiv.org/abs/2506.04421 ^ncm-24
+- VQ-VAE — Neural Discrete Representation Learning — https://arxiv.org/abs/1711.00937 ^ncm-25
+- SoundStream — An End-to-End Neural Audio Codec (residual quantisation) — https://arxiv.org/abs/2107.03312 ^ncm-26
+- MEGABYTE — Predicting Million-byte Sequences with Multiscale Transformers — https://arxiv.org/abs/2305.07185 ^ncm-27
+- Large Concept Models — Language Modeling in a Sentence Representation Space — https://arxiv.org/abs/2412.08821 ^ncm-28
+- HDLM — Next Semantic Scale Prediction via Hierarchical Diffusion Language Models — https://arxiv.org/abs/2510.08632 ^ncm-29
+- ImageFolder — Autoregressive Image Generation with Folded Tokens (nested dropout) — https://arxiv.org/abs/2410.01756 ^ncm-30
+- Next Concept Prediction in Discrete Latent Space Leads to Stronger Language Models (*different line*) — https://arxiv.org/abs/2602.08984 ^ncm-31
+- NCP-ArchPreview Technical Report (*different line*, 8.9B latent-space LM) — https://arxiv.org/abs/2609.10715 ^ncm-32
+- ELF: Embedded Language Flows (a diffusion/flow baseline) — https://arxiv.org/abs/2605.10938 ^ncm-33
+- Khoury, *Round-Trip Refinement: A Training-Free Sampler for Next-Concept Language Models* (Zenodo, 31 Oct 2026) — https://doi.org/10.5281/zenodo.23737645 ^ncm-34
+- Seemann, *Fast but Imprecise? Next-Concept Models versus Autoregressive Language Models, and Fusing Them with PlanSpec* (Zenodo v2, 24 Oct 2026) — https://doi.org/10.5281/zenodo.23564346 ^ncm-35
+- Rahmani, *Next-Concept Models on a Laptop GPU…* (Zenodo, 31 Oct 2026) + code — https://doi.org/10.5281/zenodo.23837501 ; https://github.com/Aymenrahmanii/NCM ^ncm-36
+- Music, *Coarse-to-Fine Text Generation on a Laptop: A Native MLX Study* (Zenodo v0.13, 4 Nov 2026) — https://doi.org/10.5281/zenodo.23620913 ^ncm-37
+- Music, NCM-MLX checkpoint-parity report (Sudoku 1,988/1,926/1,724 of 2,000) — https://janmus1c.github.io/ncm-mlx/research/checkpoint-parity/ ^ncm-38
+- *Next-Concept Reserving: A Coarse-to-Fine Generator for Claims Development* (Zenodo, actuarial application, correct attribution) — https://doi.org/10.5281/zenodo.23678936 ^ncm-39
+- OpenAlex work record and citing-works graph (`W7221767759`) — https://api.openalex.org/works?filter=cites:W7221767759 ^ncm-40
+- Semantic Scholar citations endpoint (empty array) — https://api.semanticscholar.org/graph/v1/paper/arXiv:2610.14162/citations ^ncm-41
+- `mrfakename/ncm-webgpu-weights` — ONNX/WebGPU port with parity fixtures — https://huggingface.co/mrfakename/ncm-webgpu-weights ^ncm-42
+- `Red-fuchs/ncm-modular` — independent MLX experiments (§ issue #19 companion repo) — https://github.com/Red-fuchs/ncm-modular ^ncm-43
+- `requirements.txt` — the nine install lines (PyTorch unpinned) — https://github.com/HazyResearch/ncm/blob/main/requirements.txt ^ncm-44
+- `evaluate.py` — the eval entry point: per-GPU shard spawn, merge, `--gpus` / `--n` / `--out` flags — https://github.com/HazyResearch/ncm/blob/main/evaluate.py ^ncm-45
+- `config/eval/` — per-bundle eval configs, incl. `lm1b-small|medium|large` (24 / 36 blocks, width 1024 / 1280) and the `../tokenizer.pt` path — https://github.com/HazyResearch/ncm/tree/main/config/eval ^ncm-46
+- Hugging Face tree API for `ncm-checkpoints` — exact per-file bundle sizes used for the parameter derivation — https://huggingface.co/api/models/hazyresearch/ncm-checkpoints/tree/main?recursive=true ^ncm-47
+- Rahmani, full report PDF — Table 1 measured latency, peak GPU memory and repetition rate on a 6 GB RTX 3050 Laptop GPU — https://zenodo.org/records/23837502/files/ncm-limits-report.pdf ^ncm-48
+- Seemann, full PDF — Table 1 per-block timings on an RTX 3080 (109 / 27.3 / 12.6 ms per sequence at batch 1 / 4 / 16) — https://zenodo.org/records/23607317/files/Seemann-2026-NCM-vs-AR-PlanSpec-v2.pdf ^ncm-49
+- PR #5 — "Fix the KV-cached `generate()` path: identical outputs, 2-5x faster" (open, unmerged) — https://github.com/HazyResearch/ncm/pull/5 ^ncm-50
+- `models/common.py` — optional `flex_attention` import, guarded, with an SDPA fallback and an autocast dtype alignment — https://github.com/HazyResearch/ncm/blob/main/models/common.py ^ncm-51
+- AMD Software: PyTorch on Windows Edition 7.2 release notes (ROCm 7.2, 21 Jan 2026) — https://www.amd.com/en/resources/support-articles/release-notes/RN-AMDGPU-WINDOWS-PYTORCH-7-2.html ^ncm-52
+- ROCm on Radeon and Ryzen — Windows PyTorch support matrix and pip install path, gfx1151 / Ryzen AI MAX+ 395 — https://rocm.docs.amd.com/projects/radeon-ryzen/en/latest/docs/compatibility/compatibilityrad/windows/windows_compatibility.html ^ncm-53
+- TheRock `external-builds/pytorch` README — support-status table; `torch` and `aotriton` supported on Windows, `triton` in progress — https://github.com/ROCm/TheRock/blob/main/external-builds/pytorch/README.md ^ncm-54
+- `amd-torch-device-gfx1151` wheels — win_amd64 and linux_x86_64, Python 3.10–3.13 — https://stable.repo.amd.com/rocm/pytorch/whl-next/amd-torch-device-gfx1151/ ^ncm-55

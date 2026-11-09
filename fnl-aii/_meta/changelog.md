@@ -10,3 +10,6 @@
 - 2026-08-29: ingest pinkDesignAnthropologicalForesighting2023 → Raw/pinkDesignAnthropologicalForesighting2023.md
 - 2026-08-29: ingest kohlerStrategicForesightKnowledge2021 → Raw/kohlerStrategicForesightKnowledge2021.md
 2026-08-29T20:20:14.246Z archived:: science-fiction-military-planning path:: Research/AI Systems & Deployment/science-fiction-military-planning.md sources:: 30
+
+- 2026-10-09: ingest bostromBytePairEncoding2020 → Raw/bostromBytePairEncoding2020.md
+- 2026-11-09T12:13:02.320Z archived:: ncm path:: Research/Machine Learning Methods/ncm.md sources:: 62
