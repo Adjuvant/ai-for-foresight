@@ -12,6 +12,7 @@ Gate 2 of PLAN.md. Purpose: observe which claims recur across concept pages befo
 
 | Source | Pages citing in Key Claims (count of pages, not claims) | Domain |
 |--------|----------------------------------------------------------|--------|
+| [[Research/AI Systems & Deployment/agentic-signal-intelligence]] | 5 | agentic-ai, osint, intelligence-gathering, deep-research, llm-agents |
 | [[Research/Machine Learning Methods/ncm]] | 7 | language-models, generation-granularity, discrete-latents, next-token-prediction, image-generation-lineage |
 | [[Raw/bostromBytePairEncoding2020]] | 5 | tokenization, language-model-pretraining, nlp, unigram-language-model, morphology |
 | [[Raw/pinkDesignAnthropologicalForesighting2023]] | 5 | foresight-methods, ethnography, design-anthropology, futures-anthropology, qualitative-foresighting |

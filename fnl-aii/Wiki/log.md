@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-11-09] ingest-fix | agentic-signal-intelligence → claim-register backfill: high-connectivity source row added after re-ingest check (pages agentic-osint, deep-research-agents, horizon-scanning, policy-foresight, weak-signals) | CLAIMS: 1 register entries added/updated
+
 ## [2026-11-09] entity | amd-strix-halo created — standing reference node for the Strix Halo ML workstation (gfx1151, ROCm 7.2, 96 GB addressable); procedures and capability ledger live in Projects/strix-halo-ml
 
 ## [2026-11-09] ingest | ncm → unit-of-prediction-vs-output, coarse-to-fine-generation, parallel-decoding, lossy-latent-bottleneck, test-time-compute, consensus-candidate-selection, tokenization-inductive-bias (concepts mentioned in source without pages yet: residual vector quantization, nested dropout, conditioning corruption, block-diagonal attention, EMA codebooks) | CLAIMS: 1 register entries added/updated
