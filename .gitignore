@@ -11,7 +11,14 @@
 # Obsidian: ignore machine-local UI state, keep vault settings
 fnl-aii/.obsidian/workspace.json
 fnl-aii/.obsidian/workspace-mobile.json
+fnl-aii/.obsidian/graph.json
 fnl-aii/.obsidian/cache
+
+# Outputs working dirs: scratch only, kept on disk.
+# Anything that needs to survive lives in the vault, and anything load-bearing
+# is validated by wiki ingestion, not by its presence here.
 outputs/.plans/
 outputs/.drafts/
+outputs/.notes/
+outputs/.reading-guides/
 outputs/.research/
