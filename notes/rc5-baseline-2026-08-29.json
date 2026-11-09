@@ -1,0 +1,39 @@
+{
+  "run": "rc5-research-pipeline-test",
+  "date": "2026-08-29T20:2x:xxZ",
+  "prerequisites": {
+    "rc5_versions": {
+      ".pi/npm": "0.2.0-rc.5",
+      ".feynman/npm": "0.2.0-rc.5",
+      "npm_registry_dist_tags": "unverified (npm view returned empty; likely registry/auth lookup failed in this shell)"
+    },
+    "pdf_service": {
+      "health": "ok",
+      "url": "http://127.0.0.1:8765",
+      "extractors": ["liteparse", "poppler", "pdfplumber", "docling"],
+      "gpu": "mps"
+    },
+    "bbt": "reachable (zotero_get_tags + zotero_details_safe succeeded)",
+    "zotero_details_tool": "zotero_details_safe (no zotero details MCP connector configured; connectors: [])"
+  },
+  "baseline_state": {
+    "wiki_health": {
+      "total_pages": 20,
+      "total_internal_links": 61,
+      "link_density": "3.0",
+      "concept": {"pages": 12, "orphans": 2, "stubs": 7, "dead_related": 0, "slug_mismatches": 0, "missing_from_index": 0, "stale_in_index": 0},
+      "entity": {"pages": 6, "orphans": 0, "stubs": 6, "dead_related": 0, "slug_mismatches": 0, "missing_from_index": 0, "stale_in_index": 0},
+      "synthesis": {"pages": 2, "orphans": 1, "stubs": 1, "dead_related": 0, "slug_mismatches": 0, "missing_from_index": 0, "stale_in_index": 0}
+    },
+    "list_projects": {"total_projects": 0, "projects": []},
+    "validate_project_notes": {
+      "empty_frames": [], "broken_frames": [], "broken_related": [], "unlisted_notes": [], "missing_origin": [],
+      "counts": {"empty_frames": 0, "broken_frames": 0, "broken_related": 0, "unlisted_notes": 0, "missing_origin": 0}
+    }
+  },
+  "notes": [
+    "npm registry dist-tag lookup failed in shell (empty output) - recorded unverified; local package versions are 0.2.0-rc.5 in both .pi and .feynman",
+    "Raw/ dir empty at baseline; no pre-existing Raw notes for the 3 target citekeys",
+    "candyTurningForesightOut2025 metadata discrepancy: Zotero year=2025, but extracted PDF + URL indicate Journal of Futures Studies, March 2019, 23(3): 3-22, DOI 10.6531/JFS.201903_23(3).0002 - flagged for report, Zotero metadata passed as-is"
+  ]
+}
