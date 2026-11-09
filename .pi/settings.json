@@ -1,5 +1,5 @@
 {
   "packages": [
-    "npm:@adjuvant/agent-knowledge-base-toolkit@0.2.0-rc.7"
+    "npm:@adjuvant/agent-knowledge-base-toolkit@latest"
   ]
 }
