@@ -1,0 +1,20 @@
+{
+  "text": "<163346 chars elided>",
+  "format": "markdown",
+  "extractor": "pdfplumber",
+  "quality_score": 0.7682298909692111,
+  "page_count": 30,
+  "duration_ms": 3196,
+  "fallback_chain": [
+    "pdfplumber"
+  ],
+  "warnings": [],
+  "missing_word_boundaries": false,
+  "candidates": [
+    {
+      "extractor": "pdfplumber",
+      "quality_score": 0.7682298909692111,
+      "missing_word_boundaries": false
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+
+=== Schöttler et al. - 2021 - Visualizing and Interacting with Geospatial Networks A Survey and Design Space.pdf ===
+  default              winner=liteparse  score=0.7524 warnings=[] missing_word_boundaries=False
+                       candidates=[('liteparse', 0.7524)]
+  preferred=poppler    winner=liteparse  score=0.7524 warnings=[] missing_word_boundaries=False
+                       candidates=[('poppler', 0.3477), ('liteparse', 0.7524)]
+  preferred=pdfplumber winner=pdfplumber score=0.7682 warnings=[] missing_word_boundaries=False
+                       candidates=[('pdfplumber', 0.7682)]
+  gutter-merged lines (>=25-space run): 174 / 1894
+  detect_column_interleaving(whole text) = False
+    window    0- 200: checked=127 ratio=0.46(need>0.12) median_start=78 aligned=0.72(need>=0.80) -> False  detect=False
+    window  200- 400: checked=179 ratio=0.71(need>0.12) median_start=80 aligned=0.76(need>=0.80) -> False  detect=False
+    window  400- 600: checked=172 ratio=0.44(need>0.12) median_start=77 aligned=0.79(need>=0.80) -> False  detect=False
+    window  600- 800: checked=163 ratio=0.51(need>0.12) median_start=79 aligned=0.65(need>=0.80) -> False  detect=False
+    window  800-1000: checked=168 ratio=0.62(need>0.12) median_start=77 aligned=0.76(need>=0.80) -> False  detect=False
+    window 1000-1200: checked=181 ratio=0.72(need>0.12) median_start=78 aligned=0.91(need>=0.80) -> True  detect=True
+    window 1200-1400: checked=173 ratio=0.75(need>0.12) median_start=78 aligned=0.85(need>=0.80) -> True  detect=True
+    window 1400-1600: checked=175 ratio=0.55(need>0.12) median_start=79 aligned=0.70(need>=0.80) -> False  detect=False
+  score_quality(pdftotext -layout)          = 0.7477 (penalized -> 0.3477)
+  score_quality(pdftotext, reading order)   = 0.7622 <- better than the winning answer, and never produced
+
+=== Bressa et al. - 2024 - Input Visualization Collecting and Modifying Data with Visual Representations.pdf ===
+  default              winner=liteparse  score=0.7586 warnings=[] missing_word_boundaries=False
+                       candidates=[('liteparse', 0.7586)]
+  preferred=poppler    winner=liteparse  score=0.7586 warnings=[] missing_word_boundaries=False
+                       candidates=[('poppler', 0.341), ('liteparse', 0.7586)]
+  preferred=pdfplumber winner=pdfplumber score=0.9277 warnings=[] missing_word_boundaries=False
+                       candidates=[('pdfplumber', 0.9277)]
+  gutter-merged lines (>=25-space run): 208 / 1221
+  detect_column_interleaving(whole text) = False
+    window    0- 200: checked=165 ratio=0.70(need>0.12) median_start=66 aligned=0.24(need>=0.80) -> False  detect=False
+    window  200- 400: checked=150 ratio=0.74(need>0.12) median_start=58 aligned=0.30(need>=0.80) -> False  detect=False
+    window  400- 600: checked=135 ratio=0.37(need>0.12) median_start=57 aligned=0.34(need>=0.80) -> False  detect=False
+    window  600- 800: checked=188 ratio=0.80(need>0.12) median_start=71 aligned=0.27(need>=0.80) -> False  detect=False
+    window  800-1000: checked=190 ratio=0.79(need>0.12) median_start=67 aligned=0.30(need>=0.80) -> False  detect=False
+    window 1000-1200: checked=190 ratio=0.85(need>0.12) median_start=98 aligned=0.73(need>=0.80) -> False  detect=False
+    window 1200-1400: checked=21 ratio=0.90(need>0.12) median_start=94 aligned=0.63(need>=0.80) -> False  detect=False
+  score_quality(pdftotext -layout)          = 0.7417 (penalized -> 0.3417)
+  score_quality(pdftotext, reading order)   = 0.8878 <- better than the winning answer, and never produced

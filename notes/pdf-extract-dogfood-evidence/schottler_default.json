@@ -1,0 +1,20 @@
+{
+  "text": "<208883 chars elided>",
+  "format": "markdown",
+  "extractor": "liteparse",
+  "quality_score": 0.7523674592076571,
+  "page_count": null,
+  "duration_ms": 221,
+  "fallback_chain": [
+    "liteparse"
+  ],
+  "warnings": [],
+  "missing_word_boundaries": false,
+  "candidates": [
+    {
+      "extractor": "liteparse",
+      "quality_score": 0.7523674592076571,
+      "missing_word_boundaries": false
+    }
+  ]
+}
