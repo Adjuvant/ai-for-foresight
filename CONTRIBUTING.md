@@ -1,4 +1,4 @@
-<!-- gsd:issue-convention v1 start -->
+<!-- op:issue-convention v1 start -->
 ## Filing issues
 
 Follow this whenever you file a GitHub issue, in this repo or any other.
@@ -20,4 +20,4 @@ Example, filed in pi-tools while working in bpy-tool:
    Blocking: no
 
    dev-chain retried the wrong tool after a step timeout...
-<!-- gsd:issue-convention v1 end -->
+<!-- op:issue-convention v1 end -->
